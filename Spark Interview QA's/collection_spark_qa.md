@@ -7,7 +7,7 @@ The returned Dataset will return more rows than the current DataFrame. It is als
 
 | Tables        | Are           | 
 | ------------- |:-------------:| 
-| col 3 is      | right-aligned | 
+| Spark map() transformation applies a function to each row in a DataFrame/Dataset and returns the new transformed Dataset.Function in map can return only one item.      | right-aligned | 
 | col 2 is      | centered      |   
  
                                                     
